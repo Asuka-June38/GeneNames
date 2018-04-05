@@ -1,0 +1,3 @@
+G6PC3 hsa:92579
+CLK4 hsa:57396
+TLT3 hsa:340206
